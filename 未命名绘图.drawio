@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-04T08:48:38.980Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Q68E8QNdoapvl0APTAfM" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-04T08:54:18.872Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="qZOTc6iYggPnkO94ePGI" version="20.2.3" type="github">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
     <mxGraphModel dx="1483" dy="781" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2200" pageHeight="1600" background="none" math="0" shadow="0">
       <root>
@@ -120,6 +120,12 @@
         </mxCell>
         <mxCell id="w_8EXkbutIeRQx0IGn0U-37" value="区域&lt;br&gt;处理方式&lt;br&gt;运维单位" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="607" y="611" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="w_8EXkbutIeRQx0IGn0U-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=18;" edge="1" parent="1" source="w_8EXkbutIeRQx0IGn0U-40" target="w_8EXkbutIeRQx0IGn0U-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w_8EXkbutIeRQx0IGn0U-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=18;" edge="1" parent="1" source="w_8EXkbutIeRQx0IGn0U-40" target="w_8EXkbutIeRQx0IGn0U-128">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="w_8EXkbutIeRQx0IGn0U-40" value="&lt;font color=&quot;#323232&quot;&gt;&lt;span style=&quot;font-size: 18px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;告警信息&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1252" y="744" width="120" height="60" as="geometry" />
@@ -313,6 +319,34 @@
         </mxCell>
         <mxCell id="w_8EXkbutIeRQx0IGn0U-125" value="用电曲线" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1759" y="1161" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w_8EXkbutIeRQx0IGn0U-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=18;" edge="1" parent="1" source="w_8EXkbutIeRQx0IGn0U-128" target="w_8EXkbutIeRQx0IGn0U-130">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w_8EXkbutIeRQx0IGn0U-128" value="&lt;font color=&quot;#323232&quot;&gt;&lt;span style=&quot;font-size: 18px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;判断依据&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1413" y="648" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w_8EXkbutIeRQx0IGn0U-129" value="&lt;font color=&quot;#323232&quot;&gt;&lt;span style=&quot;font-size: 18px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;告警列表&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1413" y="744" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w_8EXkbutIeRQx0IGn0U-135" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=18;" edge="1" parent="1" source="w_8EXkbutIeRQx0IGn0U-130" target="w_8EXkbutIeRQx0IGn0U-134">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w_8EXkbutIeRQx0IGn0U-137" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=18;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="w_8EXkbutIeRQx0IGn0U-130" target="w_8EXkbutIeRQx0IGn0U-136">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1661" y="774" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w_8EXkbutIeRQx0IGn0U-130" value="负荷曲线&lt;br&gt;停机时间曲线" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1603" y="638" width="117" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="w_8EXkbutIeRQx0IGn0U-134" value="&lt;font color=&quot;#323232&quot;&gt;&lt;span style=&quot;font-size: 18px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;负荷曲线&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1759" y="648" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w_8EXkbutIeRQx0IGn0U-136" value="&lt;font color=&quot;#323232&quot;&gt;&lt;span style=&quot;font-size: 18px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;停机时间曲线&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1759" y="744" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
